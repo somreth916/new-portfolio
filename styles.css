@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: beige;
+}
+
+/* Header */
+#name {
+    font-size: 60px;
+    color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: darkslategrey;
+}
+
+h2 {
+    color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Body */
+section {
+    text-align: center;
+}

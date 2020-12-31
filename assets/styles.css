@@ -1,0 +1,94 @@
+html {
+    background-color: beige;
+    background-image: url("images/greek-vase.png");
+}
+
+.box {
+    width: 525px;
+    height: auto;
+    background-color: rgba(0,0,0,0.6);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    list-style: inside;
+    border-radius: 25px;
+}
+
+/* Header */
+#name {
+    font-size: 60px;
+    margin: 0px;
+    color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#sub-name {
+    padding-bottom: 10px;
+}
+
+header {
+    background-color: rgba(0, 41, 41, 0.75);
+}
+
+/* Body */
+p {
+    font-family: cursive;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+article {
+    text-align: center;
+}
+
+.intro {
+    font-family: cursive;
+}
+
+/* Contacts */
+.contact {
+    text-align: left;
+}
+
+/* Footer */
+footer {
+    background-color: rgba(0, 41, 41, 0.7);
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Links */
+a {
+    font: 1em sans-serif;
+    font-weight: bold;
+}
+
+a:link {
+    color: lightseagreen;
+}
+  
+a:visited {
+    color: lightseagreen;
+}
+  
+a:hover {
+    color: #ffffff;
+}
+  
+a:active {
+    color: grey;
+}
